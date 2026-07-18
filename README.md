@@ -28,7 +28,7 @@ Please use the following command for installation.
 
 ```bash
 # It is recommended to create a new environment
-conda create -n pareconv python==3.7.7
+conda create -n pareconv python==3.9
 conda activate MCI-Net
 
 
